@@ -54,19 +54,38 @@
       "name": "linux-vcpkg-headless",
       "displayName": "Linux headless core build with vcpkg",
       "description": "Builds the non-GUI project configuration for Docker and CI.",
+      "inherits": "linux-base",
+      "cacheVariables": {
+        "CMAKE_BUILD_TYPE": "Release",
+        "TSUNAMI_BUILD_GUI": "OFF",
+        "TSUNAMI_BUILD_MATPLOT_SMOKE": "OFF",
+        "TSUNAMI_BUILD_TESTS": "OFF"
+      }
+    },
+    {
+      "name": "linux-gui-debug",
+      "displayName": "Linux Qt Widgets GUI debug build",
+      "description": "Builds the repository-level Qt Widgets GUI using system Qt 6 and no vcpkg Qt feature.",
+      "inherits": "linux-base",
+      "cacheVariables": {
+        "CMAKE_BUILD_TYPE": "Debug",
+        "TSUNAMI_BUILD_GUI": "ON",
+        "TSUNAMI_BUILD_MATPLOT_SMOKE": "OFF",
+        "TSUNAMI_BUILD_TESTS": "OFF"
+      }
+    },
+    {
+      "name": "linux-base",
+      "hidden": true,
       "generator": "Ninja",
       "binaryDir": "${sourceDir}/build/${presetName}",
       "environment": {
         "VCPKG_MAX_CONCURRENCY": "2"
       },
       "cacheVariables": {
-        "CMAKE_BUILD_TYPE": "Release",
         "CMAKE_CXX_STANDARD": "20",
         "CMAKE_CXX_STANDARD_REQUIRED": "ON",
         "CMAKE_EXPORT_COMPILE_COMMANDS": "ON",
-        "CMAKE_TOOLCHAIN_FILE": "$env{VCPKG_ROOT}/scripts/buildsystems/vcpkg.cmake",
-        "TSUNAMI_BUILD_GUI": "OFF",
-        "TSUNAMI_BUILD_MATPLOT_SMOKE": "OFF",
         "VCPKG_TARGET_TRIPLET": "x64-linux"
       }
     }
@@ -83,6 +102,13 @@
     {
       "name": "linux-vcpkg-headless-build",
       "configurePreset": "linux-vcpkg-headless"
+    },
+    {
+      "name": "linux-gui-debug-build",
+      "configurePreset": "linux-gui-debug",
+      "targets": [
+        "TsunamiGUI"
+      ]
     }
   ]
 }

@@ -1,0 +1,731 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.3 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{none/global//global/global/global}
+    \entry{Free3DTetrapod}{misc}{}{}
+      \name{author}{1}{}{%
+        {{hash=c9c383a6cde52841bdcdade9e85d8fbd}{%
+           family={{Free3D}},
+           familyi={F\bibinitperiod}}}%
+      }
+      \strng{namehash}{c9c383a6cde52841bdcdade9e85d8fbd}
+      \strng{fullhash}{c9c383a6cde52841bdcdade9e85d8fbd}
+      \strng{fullhashraw}{c9c383a6cde52841bdcdade9e85d8fbd}
+      \strng{bibnamehash}{c9c383a6cde52841bdcdade9e85d8fbd}
+      \strng{authorbibnamehash}{c9c383a6cde52841bdcdade9e85d8fbd}
+      \strng{authornamehash}{c9c383a6cde52841bdcdade9e85d8fbd}
+      \strng{authorfullhash}{c9c383a6cde52841bdcdade9e85d8fbd}
+      \strng{authorfullhashraw}{c9c383a6cde52841bdcdade9e85d8fbd}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{https://free3d.com/3d-model/concrete-tetrapod-set-of-4-2325.html}}
+      \field{note}{3D model submitted by ehsair, accessed 2026-04-01}
+      \field{title}{Concrete Tetrapod Set Of 4}
+      \field{year}{2019}
+    \endentry
+    \entry{Bandyopadhyay2021}{article}{}{}
+      \name{author}{3}{}{%
+        {{hash=9ff98be83cf05e491f448f9f4af55659}{%
+           family={Bandyopadhyay},
+           familyi={B\bibinitperiod},
+           given={Arghya},
+           giveni={A\bibinitperiod}}}%
+        {{hash=4b81f1e59e7ba1004678c46448ace523}{%
+           family={Manna},
+           familyi={M\bibinitperiod},
+           given={Shibam},
+           giveni={S\bibinitperiod}}}%
+        {{hash=28f2c1ed52da7665d7d44b64f39091d3}{%
+           family={Maji},
+           familyi={M\bibinitperiod},
+           given={Dipannita},
+           giveni={D\bibinitperiod}}}%
+      }
+      \strng{namehash}{d5b11e415e845c25b652dd146774fd4c}
+      \strng{fullhash}{d5b11e415e845c25b652dd146774fd4c}
+      \strng{fullhashraw}{d5b11e415e845c25b652dd146774fd4c}
+      \strng{bibnamehash}{d5b11e415e845c25b652dd146774fd4c}
+      \strng{authorbibnamehash}{d5b11e415e845c25b652dd146774fd4c}
+      \strng{authornamehash}{d5b11e415e845c25b652dd146774fd4c}
+      \strng{authorfullhash}{d5b11e415e845c25b652dd146774fd4c}
+      \strng{authorfullhashraw}{d5b11e415e845c25b652dd146774fd4c}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Ocean Dynamics}
+      \field{title}{Hydrodynamic Aspects of Tsunami Wave Motion: A Review}
+      \field{volume}{71}
+      \field{year}{2021}
+      \field{pages}{613\bibrangedash 629}
+      \range{pages}{17}
+      \verb{doi}
+      \verb 10.1007/s10236-021-01454-z
+      \endverb
+    \endentry
+    \entry{Dentale2014}{article}{}{}
+      \name{author}{3}{}{%
+        {{hash=fa7f2aa448bc3a3758055eda584c1f9e}{%
+           family={Dentale},
+           familyi={D\bibinitperiod},
+           given={Fabio},
+           giveni={F\bibinitperiod}}}%
+        {{hash=b4a68e038da3a14633460a73a536a398}{%
+           family={Donnarumma},
+           familyi={D\bibinitperiod},
+           given={Giovanna},
+           giveni={G\bibinitperiod}}}%
+        {{hash=a98081fa13a425a016f08f22b3dc72ce}{%
+           family={Pugliese\bibnamedelima Carratelli},
+           familyi={P\bibinitperiod\bibinitdelim C\bibinitperiod},
+           given={Eugenio},
+           giveni={E\bibinitperiod}}}%
+      }
+      \strng{namehash}{5cc99383475f34c50fac32504f3ec6c7}
+      \strng{fullhash}{5cc99383475f34c50fac32504f3ec6c7}
+      \strng{fullhashraw}{5cc99383475f34c50fac32504f3ec6c7}
+      \strng{bibnamehash}{5cc99383475f34c50fac32504f3ec6c7}
+      \strng{authorbibnamehash}{5cc99383475f34c50fac32504f3ec6c7}
+      \strng{authornamehash}{5cc99383475f34c50fac32504f3ec6c7}
+      \strng{authorfullhash}{5cc99383475f34c50fac32504f3ec6c7}
+      \strng{authorfullhashraw}{5cc99383475f34c50fac32504f3ec6c7}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{International Journal of Naval Architecture and Ocean Engineering}
+      \field{number}{4}
+      \field{title}{Numerical Wave Interaction with Tetrapods Breakwater}
+      \field{volume}{6}
+      \field{year}{2014}
+      \field{pages}{800\bibrangedash 812}
+      \range{pages}{13}
+      \verb{doi}
+      \verb 10.2478/IJNAOE-2013-0214
+      \endverb
+    \endentry
+    \entry{Natakusumah2024}{article}{}{}
+      \name{author}{6}{}{%
+        {{hash=b4dab3a1c6e7b7d14ecdf14536254efe}{%
+           family={Natakusumah},
+           familyi={N\bibinitperiod},
+           given={Dantje\bibnamedelima Kardana},
+           giveni={D\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+        {{hash=23ab4b5ed4d096155f94bb69ad187c63}{%
+           family={Achiari},
+           familyi={A\bibinitperiod},
+           given={Hendra},
+           giveni={H\bibinitperiod}}}%
+        {{hash=d5af80b1a300e974cbf98ded9100b42c}{%
+           family={Nugroho},
+           familyi={N\bibinitperiod},
+           given={Eka\bibnamedelima Oktariyanto},
+           giveni={E\bibinitperiod\bibinitdelim O\bibinitperiod}}}%
+        {{hash=34bd59c43bab93f5346b86021e636306}{%
+           family={Adinata},
+           familyi={A\bibinitperiod},
+           given={Fitra},
+           giveni={F\bibinitperiod}}}%
+        {{hash=51d2bb903bb1c0c2cc9117d890faee99}{%
+           family={Hidayatulloh},
+           familyi={H\bibinitperiod},
+           given={Syarif},
+           giveni={S\bibinitperiod}}}%
+        {{hash=d23d6919ffd80c613b5dc29dea57b505}{%
+           family={Ishakputra},
+           familyi={I\bibinitperiod},
+           given={Jonathan\bibnamedelima Angelo},
+           giveni={J\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+      }
+      \strng{namehash}{746cd63ac1874d5675ad1f2e8b91b546}
+      \strng{fullhash}{b77c7ac593727fa4de3ceb4830783784}
+      \strng{fullhashraw}{b77c7ac593727fa4de3ceb4830783784}
+      \strng{bibnamehash}{746cd63ac1874d5675ad1f2e8b91b546}
+      \strng{authorbibnamehash}{746cd63ac1874d5675ad1f2e8b91b546}
+      \strng{authornamehash}{746cd63ac1874d5675ad1f2e8b91b546}
+      \strng{authorfullhash}{b77c7ac593727fa4de3ceb4830783784}
+      \strng{authorfullhashraw}{b77c7ac593727fa4de3ceb4830783784}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Results in Engineering}
+      \field{title}{PentaPod: A New Type of Concrete Armor for Coastal Protection}
+      \field{volume}{24}
+      \field{year}{2024}
+      \field{pages}{102069}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1016/j.rineng.2024.102069
+      \endverb
+    \endentry
+    \entry{Fujima2002}{article}{}{}
+      \name{author}{3}{}{%
+        {{hash=51d824ea7d8a72ebcf37fceaacf28b69}{%
+           family={Fujima},
+           familyi={F\bibinitperiod},
+           given={Koji},
+           giveni={K\bibinitperiod}}}%
+        {{hash=644ccefd72d9f0bbc3b7c283e1745a6e}{%
+           family={Masamura},
+           familyi={M\bibinitperiod},
+           given={Kenji},
+           giveni={K\bibinitperiod}}}%
+        {{hash=6218e16ad0062fab883ace3e4e319f81}{%
+           family={Goto},
+           familyi={G\bibinitperiod},
+           given={Chiaki},
+           giveni={C\bibinitperiod}}}%
+      }
+      \strng{namehash}{56e089702759b93d924d7d04d0f82024}
+      \strng{fullhash}{56e089702759b93d924d7d04d0f82024}
+      \strng{fullhashraw}{56e089702759b93d924d7d04d0f82024}
+      \strng{bibnamehash}{56e089702759b93d924d7d04d0f82024}
+      \strng{authorbibnamehash}{56e089702759b93d924d7d04d0f82024}
+      \strng{authornamehash}{56e089702759b93d924d7d04d0f82024}
+      \strng{authorfullhash}{56e089702759b93d924d7d04d0f82024}
+      \strng{authorfullhashraw}{56e089702759b93d924d7d04d0f82024}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Coastal Engineering Journal}
+      \field{number}{4}
+      \field{title}{Development of the 2D/3D Hybrid Model for Tsunami Numerical Simulation}
+      \field{volume}{44}
+      \field{year}{2002}
+      \field{pages}{373\bibrangedash 397}
+      \range{pages}{25}
+      \verb{doi}
+      \verb 10.1142/S0578563402000615
+      \endverb
+    \endentry
+    \entry{Takase2016}{article}{}{}
+      \name{author}{7}{}{%
+        {{hash=952276fff3f528de9fe6afc5fcddfd1a}{%
+           family={Takase},
+           familyi={T\bibinitperiod},
+           given={Shinsuke},
+           giveni={S\bibinitperiod}}}%
+        {{hash=89ac1da206051999fa26d9348372acc1}{%
+           family={Moriguchi},
+           familyi={M\bibinitperiod},
+           given={Shuji},
+           giveni={S\bibinitperiod}}}%
+        {{hash=3c3002c9f512f96017b521444ec6ed50}{%
+           family={Terada},
+           familyi={T\bibinitperiod},
+           given={Kenjiro},
+           giveni={K\bibinitperiod}}}%
+        {{hash=37d1ff1627b2cd19eff36821490c4f06}{%
+           family={Kato},
+           familyi={K\bibinitperiod},
+           given={Junji},
+           giveni={J\bibinitperiod}}}%
+        {{hash=607ff228b300d5beb0260c1062acac34}{%
+           family={Kyoya},
+           familyi={K\bibinitperiod},
+           given={Tsuyoshi},
+           giveni={T\bibinitperiod}}}%
+        {{hash=417f3a0d52ce5a1c606398e2b236f6e0}{%
+           family={Kashiyama},
+           familyi={K\bibinitperiod},
+           given={Kenji},
+           giveni={K\bibinitperiod}}}%
+        {{hash=1c360f3f3588782adac5a8ad75477ddf}{%
+           family={Kotani},
+           familyi={K\bibinitperiod},
+           given={Tetsuya},
+           giveni={T\bibinitperiod}}}%
+      }
+      \strng{namehash}{fa2a86f504861a9cf8996eec78ce64b6}
+      \strng{fullhash}{aa94c3e781c008255ba25bf6a811b0d8}
+      \strng{fullhashraw}{aa94c3e781c008255ba25bf6a811b0d8}
+      \strng{bibnamehash}{fa2a86f504861a9cf8996eec78ce64b6}
+      \strng{authorbibnamehash}{fa2a86f504861a9cf8996eec78ce64b6}
+      \strng{authornamehash}{fa2a86f504861a9cf8996eec78ce64b6}
+      \strng{authorfullhash}{aa94c3e781c008255ba25bf6a811b0d8}
+      \strng{authorfullhashraw}{aa94c3e781c008255ba25bf6a811b0d8}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Computational Mechanics}
+      \field{number}{3}
+      \field{title}{2D--3D Hybrid Stabilized Finite Element Method for Tsunami Runup Simulations}
+      \field{volume}{58}
+      \field{year}{2016}
+      \field{pages}{411\bibrangedash 422}
+      \range{pages}{12}
+      \verb{doi}
+      \verb 10.1007/s00466-016-1300-4
+      \endverb
+    \endentry
+    \entry{Tozato2022}{article}{}{}
+      \name{author}{9}{}{%
+        {{hash=3b3633c94449c7ca90e7269a43c9086d}{%
+           family={Tozato},
+           familyi={T\bibinitperiod},
+           given={Kenta},
+           giveni={K\bibinitperiod}}}%
+        {{hash=952276fff3f528de9fe6afc5fcddfd1a}{%
+           family={Takase},
+           familyi={T\bibinitperiod},
+           given={Shinsuke},
+           giveni={S\bibinitperiod}}}%
+        {{hash=89ac1da206051999fa26d9348372acc1}{%
+           family={Moriguchi},
+           familyi={M\bibinitperiod},
+           given={Shuji},
+           giveni={S\bibinitperiod}}}%
+        {{hash=3c3002c9f512f96017b521444ec6ed50}{%
+           family={Terada},
+           familyi={T\bibinitperiod},
+           given={Kenjiro},
+           giveni={K\bibinitperiod}}}%
+        {{hash=f5aaa0f3ab8d196beda27858b783f50d}{%
+           family={Otake},
+           familyi={O\bibinitperiod},
+           given={Yu},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=4fa60a522d55f1c85911cd441501bd45}{%
+           family={Fukutani},
+           familyi={F\bibinitperiod},
+           given={Yo},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=a5007eaf1e33169a9d4acb079164c6ad}{%
+           family={Nojima},
+           familyi={N\bibinitperiod},
+           given={Kazuya},
+           giveni={K\bibinitperiod}}}%
+        {{hash=c12d02ddb018347a5024d785e528e0f6}{%
+           family={Sakuraba},
+           familyi={S\bibinitperiod},
+           given={Masaaki},
+           giveni={M\bibinitperiod}}}%
+        {{hash=cdd9df8c2c56f134d49b0ecfc25c742a}{%
+           family={Yokosu},
+           familyi={Y\bibinitperiod},
+           given={Hiromu},
+           giveni={H\bibinitperiod}}}%
+      }
+      \strng{namehash}{2d61d36ea8e9ceef42c998d268349b9f}
+      \strng{fullhash}{96759e9e4b73a963186e200badfaf74f}
+      \strng{fullhashraw}{96759e9e4b73a963186e200badfaf74f}
+      \strng{bibnamehash}{2d61d36ea8e9ceef42c998d268349b9f}
+      \strng{authorbibnamehash}{2d61d36ea8e9ceef42c998d268349b9f}
+      \strng{authornamehash}{2d61d36ea8e9ceef42c998d268349b9f}
+      \strng{authorfullhash}{96759e9e4b73a963186e200badfaf74f}
+      \strng{authorfullhashraw}{96759e9e4b73a963186e200badfaf74f}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Natural Hazards and Earth System Sciences}
+      \field{number}{4}
+      \field{title}{Rapid Tsunami Force Prediction by Mode-Decomposition-Based Surrogate Modeling}
+      \field{volume}{22}
+      \field{year}{2022}
+      \field{pages}{1267\bibrangedash 1280}
+      \range{pages}{14}
+      \verb{doi}
+      \verb 10.5194/nhess-22-1267-2022
+      \endverb
+    \endentry
+    \entry{NCEITohokuEvent}{misc}{}{}
+      \name{author}{1}{}{%
+        {{hash=224ef7e17e2f51a29d715d4d5bdd2e93}{%
+           family={{NOAA National Centers for Environmental Information}},
+           familyi={N\bibinitperiod}}}%
+      }
+      \strng{namehash}{224ef7e17e2f51a29d715d4d5bdd2e93}
+      \strng{fullhash}{224ef7e17e2f51a29d715d4d5bdd2e93}
+      \strng{fullhashraw}{224ef7e17e2f51a29d715d4d5bdd2e93}
+      \strng{bibnamehash}{224ef7e17e2f51a29d715d4d5bdd2e93}
+      \strng{authorbibnamehash}{224ef7e17e2f51a29d715d4d5bdd2e93}
+      \strng{authornamehash}{224ef7e17e2f51a29d715d4d5bdd2e93}
+      \strng{authorfullhash}{224ef7e17e2f51a29d715d4d5bdd2e93}
+      \strng{authorfullhashraw}{224ef7e17e2f51a29d715d4d5bdd2e93}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Accessed 2026-04-01}
+      \field{title}{Great Tohoku, Japan Earthquake and Tsunami, 11 March 2011}
+      \field{year}{n.d.}
+      \verb{urlraw}
+      \verb https://www.ngdc.noaa.gov/hazard/11mar2011.html
+      \endverb
+      \verb{url}
+      \verb https://www.ngdc.noaa.gov/hazard/11mar2011.html
+      \endverb
+    \endentry
+    \entry{Goto2012}{article}{}{}
+      \name{author}{8}{}{%
+        {{hash=ff4676d7386f30007ad9127825dab1d5}{%
+           family={Goto},
+           familyi={G\bibinitperiod},
+           given={Kazuhisa},
+           giveni={K\bibinitperiod}}}%
+        {{hash=51d824ea7d8a72ebcf37fceaacf28b69}{%
+           family={Fujima},
+           familyi={F\bibinitperiod},
+           given={Koji},
+           giveni={K\bibinitperiod}}}%
+        {{hash=2210bda26aa2f676048810f30a550be2}{%
+           family={Sugawara},
+           familyi={S\bibinitperiod},
+           given={Daisuke},
+           giveni={D\bibinitperiod}}}%
+        {{hash=097d62e7c4444f88bb5c5455da43067a}{%
+           family={Fujino},
+           familyi={F\bibinitperiod},
+           given={Shigehiro},
+           giveni={S\bibinitperiod}}}%
+        {{hash=2959e6f7ea1b3684334ab4a7ec38dfa6}{%
+           family={Imai},
+           familyi={I\bibinitperiod},
+           given={Kentaro},
+           giveni={K\bibinitperiod}}}%
+        {{hash=4f46cab6e63ac8a12e21dccf407dbb1e}{%
+           family={Tsudaka},
+           familyi={T\bibinitperiod},
+           given={Ryouta},
+           giveni={R\bibinitperiod}}}%
+        {{hash=a14620084219cc78e78681635886bea8}{%
+           family={Abe},
+           familyi={A\bibinitperiod},
+           given={Tomoya},
+           giveni={T\bibinitperiod}}}%
+        {{hash=d520e3b5295f60c679ab1215ae969a3f}{%
+           family={Haraguchi},
+           familyi={H\bibinitperiod},
+           given={Tsuyoshi},
+           giveni={T\bibinitperiod}}}%
+      }
+      \strng{namehash}{92652ece9c4a6121312e7a82e44136cb}
+      \strng{fullhash}{5ed82a6206a721093dc91aa6760fc666}
+      \strng{fullhashraw}{5ed82a6206a721093dc91aa6760fc666}
+      \strng{bibnamehash}{92652ece9c4a6121312e7a82e44136cb}
+      \strng{authorbibnamehash}{92652ece9c4a6121312e7a82e44136cb}
+      \strng{authornamehash}{92652ece9c4a6121312e7a82e44136cb}
+      \strng{authorfullhash}{5ed82a6206a721093dc91aa6760fc666}
+      \strng{authorfullhashraw}{5ed82a6206a721093dc91aa6760fc666}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Earth, Planets and Space}
+      \field{title}{Field Measurements and Numerical Modeling for the Run-Up Heights and Inundation Distances of the 2011 Tohoku-Oki Tsunami at Sendai Plain, Japan}
+      \field{volume}{64}
+      \field{year}{2012}
+      \field{pages}{1247\bibrangedash 1257}
+      \range{pages}{11}
+      \verb{doi}
+      \verb 10.5047/eps.2012.02.007
+      \endverb
+    \endentry
+    \entry{Fujii2011}{article}{}{}
+      \name{author}{5}{}{%
+        {{hash=5a0247c086a04e463ad7d4ee3c3b31a1}{%
+           family={Fujii},
+           familyi={F\bibinitperiod},
+           given={Yushiro},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=a01d24d291b9c10da1a3e2a53a692277}{%
+           family={Satake},
+           familyi={S\bibinitperiod},
+           given={Kenji},
+           giveni={K\bibinitperiod}}}%
+        {{hash=bb34a776363edaeac01870534a19ccd5}{%
+           family={Sakai},
+           familyi={S\bibinitperiod},
+           given={Shin'ichi},
+           giveni={S\bibinitperiod}}}%
+        {{hash=685f8cc5125abcf030e86d1e3b278cfc}{%
+           family={Shinohara},
+           familyi={S\bibinitperiod},
+           given={Masanao},
+           giveni={M\bibinitperiod}}}%
+        {{hash=30275bb93638adcca85ede8b0bc2e41c}{%
+           family={Kanazawa},
+           familyi={K\bibinitperiod},
+           given={Toshihiko},
+           giveni={T\bibinitperiod}}}%
+      }
+      \strng{namehash}{f81e8ea4fb4b9d0b16c6999f646d57eb}
+      \strng{fullhash}{b220adba1bcfa4980dd36fcb715eba75}
+      \strng{fullhashraw}{b220adba1bcfa4980dd36fcb715eba75}
+      \strng{bibnamehash}{f81e8ea4fb4b9d0b16c6999f646d57eb}
+      \strng{authorbibnamehash}{f81e8ea4fb4b9d0b16c6999f646d57eb}
+      \strng{authornamehash}{f81e8ea4fb4b9d0b16c6999f646d57eb}
+      \strng{authorfullhash}{b220adba1bcfa4980dd36fcb715eba75}
+      \strng{authorfullhashraw}{b220adba1bcfa4980dd36fcb715eba75}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Earth, Planets and Space}
+      \field{title}{Tsunami Source of the 2011 Off the Pacific Coast of Tohoku Earthquake}
+      \field{volume}{63}
+      \field{year}{2011}
+      \field{pages}{815\bibrangedash 820}
+      \range{pages}{6}
+      \verb{doi}
+      \verb 10.5047/eps.2011.06.010
+      \endverb
+    \endentry
+    \entry{Satake2014}{article}{}{}
+      \name{author}{4}{}{%
+        {{hash=a01d24d291b9c10da1a3e2a53a692277}{%
+           family={Satake},
+           familyi={S\bibinitperiod},
+           given={Kenji},
+           giveni={K\bibinitperiod}}}%
+        {{hash=5a0247c086a04e463ad7d4ee3c3b31a1}{%
+           family={Fujii},
+           familyi={F\bibinitperiod},
+           given={Yushiro},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=895fbf4b90aea13ff5ab0f11a75b66a8}{%
+           family={Harada},
+           familyi={H\bibinitperiod},
+           given={Tomoya},
+           giveni={T\bibinitperiod}}}%
+        {{hash=65747a8647d9cd64949a80f53cc319f9}{%
+           family={Namegaya},
+           familyi={N\bibinitperiod},
+           given={Yuichi},
+           giveni={Y\bibinitperiod}}}%
+      }
+      \strng{namehash}{f92ab3d57c21a388313775c8d5dc060a}
+      \strng{fullhash}{1fe193ae8f60a54f38c357662419e998}
+      \strng{fullhashraw}{1fe193ae8f60a54f38c357662419e998}
+      \strng{bibnamehash}{f92ab3d57c21a388313775c8d5dc060a}
+      \strng{authorbibnamehash}{f92ab3d57c21a388313775c8d5dc060a}
+      \strng{authornamehash}{f92ab3d57c21a388313775c8d5dc060a}
+      \strng{authorfullhash}{1fe193ae8f60a54f38c357662419e998}
+      \strng{authorfullhashraw}{1fe193ae8f60a54f38c357662419e998}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Pure and Applied Geophysics}
+      \field{number}{12}
+      \field{title}{Tsunami Heights along the Pacific Coast of Northern Honshu Recorded from the 2011 Tohoku and Previous Great Earthquakes}
+      \field{volume}{171}
+      \field{year}{2014}
+      \field{pages}{3183\bibrangedash 3198}
+      \range{pages}{16}
+      \verb{doi}
+      \verb 10.1007/s00024-014-0779-x
+      \endverb
+    \endentry
+    \entry{Okada1985}{article}{}{}
+      \name{author}{1}{}{%
+        {{hash=08b50d1cf322805ee13e6d686b1af5e5}{%
+           family={Okada},
+           familyi={O\bibinitperiod},
+           given={Yoshimitsu},
+           giveni={Y\bibinitperiod}}}%
+      }
+      \strng{namehash}{08b50d1cf322805ee13e6d686b1af5e5}
+      \strng{fullhash}{08b50d1cf322805ee13e6d686b1af5e5}
+      \strng{fullhashraw}{08b50d1cf322805ee13e6d686b1af5e5}
+      \strng{bibnamehash}{08b50d1cf322805ee13e6d686b1af5e5}
+      \strng{authorbibnamehash}{08b50d1cf322805ee13e6d686b1af5e5}
+      \strng{authornamehash}{08b50d1cf322805ee13e6d686b1af5e5}
+      \strng{authorfullhash}{08b50d1cf322805ee13e6d686b1af5e5}
+      \strng{authorfullhashraw}{08b50d1cf322805ee13e6d686b1af5e5}
+      \field{sortinit}{7}
+      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Bulletin of the Seismological Society of America}
+      \field{number}{4}
+      \field{title}{Surface Deformation Due to Shear and Tensile Faults in a Half-Space}
+      \field{volume}{75}
+      \field{year}{1985}
+      \field{pages}{1135\bibrangedash 1154}
+      \range{pages}{20}
+    \endentry
+    \entry{Starodubcev2022}{inproceedings}{}{}
+      \name{author}{3}{}{%
+        {{hash=be22aa51c98403726e86486e95b20a08}{%
+           family={Starodubcev},
+           familyi={S\bibinitperiod},
+           given={Nikita\bibnamedelima O.},
+           giveni={N\bibinitperiod\bibinitdelim O\bibinitperiod}}}%
+        {{hash=17f387a5c7521afb3dec94034f8a66bc}{%
+           family={Nikitin},
+           familyi={N\bibinitperiod},
+           given={Nikolay\bibnamedelima O.},
+           giveni={N\bibinitperiod\bibinitdelim O\bibinitperiod}}}%
+        {{hash=d1f8799229571c60b448dc07429d9d3d}{%
+           family={Kalyuzhnaya},
+           familyi={K\bibinitperiod},
+           given={Anna\bibnamedelima V.},
+           giveni={A\bibinitperiod\bibinitdelim V\bibinitperiod}}}%
+      }
+      \strng{namehash}{4edc990cabf4ac0a5352cfa73b6c836f}
+      \strng{fullhash}{4edc990cabf4ac0a5352cfa73b6c836f}
+      \strng{fullhashraw}{4edc990cabf4ac0a5352cfa73b6c836f}
+      \strng{bibnamehash}{4edc990cabf4ac0a5352cfa73b6c836f}
+      \strng{authorbibnamehash}{4edc990cabf4ac0a5352cfa73b6c836f}
+      \strng{authornamehash}{4edc990cabf4ac0a5352cfa73b6c836f}
+      \strng{authorfullhash}{4edc990cabf4ac0a5352cfa73b6c836f}
+      \strng{authorfullhashraw}{4edc990cabf4ac0a5352cfa73b6c836f}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Proceedings of the 2022 IEEE Congress on Evolutionary Computation}
+      \field{title}{Surrogate-Assisted Evolutionary Generative Design of Breakwaters Using Deep Convolutional Networks}
+      \field{year}{2022}
+    \endentry
+    \entry{Sidorenko2024}{incollection}{}{}
+      \name{author}{4}{}{%
+        {{hash=5f21429febff1b6e8889e282bc7c41b9}{%
+           family={Sidorenko},
+           familyi={S\bibinitperiod},
+           given={Denis\bibnamedelima O.},
+           giveni={D\bibinitperiod\bibinitdelim O\bibinitperiod}}}%
+        {{hash=be22aa51c98403726e86486e95b20a08}{%
+           family={Starodubcev},
+           familyi={S\bibinitperiod},
+           given={Nikita\bibnamedelima O.},
+           giveni={N\bibinitperiod\bibinitdelim O\bibinitperiod}}}%
+        {{hash=3003e4d57e0afe7bac281af0a2bbafe6}{%
+           family={Pinchuk},
+           familyi={P\bibinitperiod},
+           given={Maiia},
+           giveni={M\bibinitperiod}}}%
+        {{hash=17f387a5c7521afb3dec94034f8a66bc}{%
+           family={Nikitin},
+           familyi={N\bibinitperiod},
+           given={Nikolay\bibnamedelima O.},
+           giveni={N\bibinitperiod\bibinitdelim O\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{d4a5f847913242b544d35cc66925c9b5}
+      \strng{fullhash}{5d81ccc156ca40245f08f77f44e2d634}
+      \strng{fullhashraw}{5d81ccc156ca40245f08f77f44e2d634}
+      \strng{bibnamehash}{d4a5f847913242b544d35cc66925c9b5}
+      \strng{authorbibnamehash}{d4a5f847913242b544d35cc66925c9b5}
+      \strng{authornamehash}{d4a5f847913242b544d35cc66925c9b5}
+      \strng{authorfullhash}{5d81ccc156ca40245f08f77f44e2d634}
+      \strng{authorfullhashraw}{5d81ccc156ca40245f08f77f44e2d634}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Optimization, Learning Algorithms and Applications}
+      \field{title}{Interpretable Structural Analysis for Evolutionary Generative Design of Coastal Breakwaters}
+      \field{year}{2024}
+      \field{pages}{172\bibrangedash 185}
+      \range{pages}{14}
+      \verb{doi}
+      \verb 10.1007/978-3-031-53025-8_13
+      \endverb
+    \endentry
+    \entry{Guler2018}{article}{}{}
+      \name{author}{4}{}{%
+        {{hash=ea234cd2dae116d2def1794013f77037}{%
+           family={Güler},
+           familyi={G\bibinitperiod},
+           given={Hasan\bibnamedelima Gökhan},
+           giveni={H\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
+        {{hash=7387deecfcf67e17a60aa59fcc671eca}{%
+           family={Baykal},
+           familyi={B\bibinitperiod},
+           given={Cüneyt},
+           giveni={C\bibinitperiod}}}%
+        {{hash=47b659e540ca54fc8a23d91b8f803c4e}{%
+           family={Arikawa},
+           familyi={A\bibinitperiod},
+           given={Taro},
+           giveni={T\bibinitperiod}}}%
+        {{hash=30f95560397e4fe31b943b4f2819a3f7}{%
+           family={Yalçiner},
+           familyi={Y\bibinitperiod},
+           given={Ahmet\bibnamedelima Cevdet},
+           giveni={A\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+      }
+      \strng{namehash}{b8717d031500aa93591cc292157078c1}
+      \strng{fullhash}{cff29166681ed4fd7b31d595ceba219b}
+      \strng{fullhashraw}{cff29166681ed4fd7b31d595ceba219b}
+      \strng{bibnamehash}{b8717d031500aa93591cc292157078c1}
+      \strng{authorbibnamehash}{b8717d031500aa93591cc292157078c1}
+      \strng{authornamehash}{b8717d031500aa93591cc292157078c1}
+      \strng{authorfullhash}{cff29166681ed4fd7b31d595ceba219b}
+      \strng{authorfullhashraw}{cff29166681ed4fd7b31d595ceba219b}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Applied Ocean Research}
+      \field{title}{Numerical Assessment of Tsunami Attack on a Rubble Mound Breakwater Using OpenFOAM{®}}
+      \field{volume}{72}
+      \field{year}{2018}
+      \field{pages}{76\bibrangedash 91}
+      \range{pages}{16}
+      \verb{doi}
+      \verb 10.1016/j.apor.2018.01.005
+      \endverb
+    \endentry
+    \entry{Foster2021}{online}{}{}
+      \name{author}{1}{}{%
+        {{hash=c64408f9897096476423498ae9404688}{%
+           family={Foster},
+           familyi={F\bibinitperiod},
+           given={Scott},
+           giveni={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{c64408f9897096476423498ae9404688}
+      \strng{fullhash}{c64408f9897096476423498ae9404688}
+      \strng{fullhashraw}{c64408f9897096476423498ae9404688}
+      \strng{bibnamehash}{c64408f9897096476423498ae9404688}
+      \strng{authorbibnamehash}{c64408f9897096476423498ae9404688}
+      \strng{authornamehash}{c64408f9897096476423498ae9404688}
+      \strng{authorfullhash}{c64408f9897096476423498ae9404688}
+      \strng{authorfullhashraw}{c64408f9897096476423498ae9404688}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{3}
+      \field{note}{Asia Times, accessed 2026-04-01}
+      \field{title}{The New View of the Earth, and Its Quakes}
+      \field{year}{2021}
+      \verb{urlraw}
+      \verb https://asiatimes.com/2021/03/the-new-view-of-the-earth-and-its-quakes/
+      \endverb
+      \verb{url}
+      \verb https://asiatimes.com/2021/03/the-new-view-of-the-earth-and-its-quakes/
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+

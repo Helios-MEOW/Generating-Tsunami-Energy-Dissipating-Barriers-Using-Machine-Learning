@@ -1,3 +1,5 @@
+#pragma once
+
 /*
     So here we want to recreate what we did in the 3rd year project with a beeline towards phase 2 so we will only implement finite difference with boundary conditions and initial conditions like we did prior with the goal here changed to accomodate efficiency so GPU running, multithreading and so on. The data visualisation will be via mathplot hopefully or we will simply interface with matlab to handoff the results and rewrite the data visualisation in matlab. This serves as a practice for coding the real model and learn how to correctly and efficiently interface with other languages.
 */
